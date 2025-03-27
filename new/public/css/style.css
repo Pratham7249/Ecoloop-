@@ -1,0 +1,17 @@
+/* Navbar Styles */
+.navbar {
+    background-color: #ffffff; /* White background */
+}
+
+.nav-link {
+    color: #000000; /* Black text color */
+}
+
+.nav-link:hover {
+    color: #fe424d; /* Change color on hover */
+}
+
+.btn-serach {
+    background-color: #fe424d; /* Button background color */
+    color: #fff; /* Button text color */
+}
