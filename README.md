@@ -19,5 +19,6 @@ This is the his platform leverages smart technology to streamline the entire pro
 /contact us route 
 
 
-![Screenshot 2025-03-27 055100](https://github.com/user-attachments/assets/0cec47c3-fe07-4fca-b010-68ea1f76ae17)
+![Screenshot 2025-03-27 055121](https://github.com/user-attachments/assets/3d203243-a70c-4b3f-a6d1-2f555f738947)
+
 
